@@ -5,6 +5,6 @@
     <title>Percules</title>
 </head>
 <body>
-    <img src="PERCULES.kra~" alt="Percules">
+    <img src="PERCULES.jpg" alt="Percules">
 </body>
 </html>
